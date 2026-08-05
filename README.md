@@ -15,7 +15,7 @@
 
 ---
 
-## 🕹️ การควบคุม (Controls)
+## การควบคุม (Controls)
 
 | การกระทำ (Action) | ปุ่มกด (Key) |
 | :--- | :--- |
@@ -29,14 +29,14 @@
 
 ---
 
-## 🛠️ ข้อกำหนดและสิ่งที่ต้องใช้ (Requirements)
+## ข้อกำหนดและสิ่งที่ต้องใช้ (Requirements)
 
 * **Python 3.8** ขึ้นไป
 * **Pygame Zero (`pgzero`)**
 
 ---
 
-## 📥 การติดตั้งและการเริ่มใช้งาน (Setup & Installation)
+## การติดตั้งและการเริ่มใช้งาน (Setup & Installation)
 
 1. **Clone หรือดาวน์โหลด repository นี้:**
    ```bash
