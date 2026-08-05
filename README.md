@@ -44,7 +44,8 @@
    cd your-repo-name
 
 ติดตั้งไลบรารีที่จำเป็น:
-   
+
+```bash
 pip install pgzero
    
 
