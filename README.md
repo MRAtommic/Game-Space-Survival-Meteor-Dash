@@ -33,7 +33,7 @@
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/afd750da-34c8-4c69-b39f-270d64a061d1" />
 </center>
----
+
 
 ## ข้อกำหนดและสิ่งที่ต้องใช้ (Requirements)
 
