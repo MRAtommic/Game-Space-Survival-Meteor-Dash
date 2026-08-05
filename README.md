@@ -4,7 +4,7 @@
 
 ---
 
-## 🎮 ฟีเจอร์เด่นของเกม (Features)
+## ฟีเจอร์เด่นของเกม (Features)
 
 * **ระบบระดับความยากตามเวลา (Dynamic Difficulty):** 
   * **Level 1 (Time > 40s):** ด่านเริ่มต้น ฉากหลังสีเทา 
@@ -57,4 +57,10 @@ pgzrun game.py
 
 Bash
 python game.py
+
+<img width="946" height="947" alt="image" src="https://github.com/user-attachments/assets/8b533b1e-de7e-4f42-bfe3-80b079b57fe4" />
+
+<img width="572" height="750" alt="image" src="https://github.com/user-attachments/assets/afd750da-34c8-4c69-b39f-270d64a061d1" />
+
+
    
